@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite them as below."
+title: "Therapist bookkeeping kit"
+type: dataset
+authors:
+  - name: "ZeraBooks"
+    website: "https://www.zerabooks.com"
+url: "https://github.com/ZeraBooks/therapist-bookkeeping-kit"
+repository-code: "https://github.com/ZeraBooks/therapist-bookkeeping-kit"
+license: CC-BY-4.0
+abstract: "Bookkeeping for a therapy practice records insurance payments and self-pay sessions separately, grosses card payments back up before processor fees, books late-cancellation fees as revenue, pays contract clinicians their agreed share of what they collect, and keeps owner pay out of expenses. This kit has the chart of accounts, a checklist and a worked month."
+keywords:
+  - bookkeeping
+  - therapists
+  - private-practice
+  - counseling
+  - chart-of-accounts
+  - accounting
+  - month-end-close
+date-released: 2026-11-04

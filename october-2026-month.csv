@@ -1,0 +1,10 @@
+Line,Amount,Account,In profit
+"Insurance EFTs, 4 payers",9860.00,Insurance revenue,Yes
+Self-pay card payments for sessions,5940.00,Self-pay revenue,Yes
+Late-cancellation fees charged to cards,300.00,Cancellation fees,Yes
+Card processor fees,-180.96,Merchant fees,Yes
+Contract clinicians: 60% of 7400.00 they collected,-4440.00,Contract clinician payments,Yes
+Practice management and telehealth software,-149.00,Practice software,Yes
+Office rent,-1600.00,Rent,Yes
+Liability insurance,-62.00,Professional liability insurance,Yes
+Continuing education course,-295.00,Licensing and continuing education,Yes

@@ -1,0 +1,22 @@
+Number,Name,Type,Detail,Notes
+1010,Operating checking,Asset,Bank,Insurance EFTs and card deposits land here
+2010,Accounts payable,Liability,Payable,Bills not yet paid
+2100,Contract clinician pay owed,Liability,Current liability,Optional. Splits worked out at month end but paid in the next month
+2300,Payroll liabilities,Liability,Current liability,"Withholdings and employer taxes, if anyone is on payroll"
+2400,Business credit card,Liability,Credit card,"The payment from checking is a transfer, not an expense"
+3010,Owner capital,Equity,Owner equity,
+3020,Owner draws,Equity,Owner equity,Owner pay taken as a draw. Not an expense
+3900,Retained earnings,Equity,Owner equity,
+4010,Insurance revenue,Income,Revenue,EFT payments from insurance payers. Add one account per panel if you want revenue by payer
+4020,Self-pay revenue,Income,Revenue,"Card, cash and HSA card payments from clients, including out-of-network clients who file a superbill"
+4030,Cancellation fees,Income,Revenue,Late-cancellation and no-show fees
+5010,Contract clinician payments,Cost of services,Cost of sales,Each clinician's share of what they collected. Skip in a solo practice
+5020,Clinical supervision,Cost of services,Cost of sales,Supervision paid for associate clinicians
+6100,Wages,Expense,Payroll,Only for staff or clinicians on payroll
+6110,Payroll taxes,Expense,Payroll,Employer share from the payroll report
+6200,Merchant fees,Expense,Operating expense,Card processor fees on self-pay payments
+6300,Rent,Expense,Occupancy,Office rent
+6400,Practice software,Expense,Operating expense,"Practice management, telehealth, scheduling"
+6500,Professional liability insurance,Expense,Operating expense,Malpractice and general liability
+6600,Licensing and continuing education,Expense,Operating expense,"License renewals, CE courses, memberships"
+6700,Accounting and billing fees,Expense,Operating expense,
